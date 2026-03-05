@@ -19,7 +19,7 @@ export function Search() {
                 placeholder="Поиск"
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={(e) => { if (e.key === 'Enter') handleSearch() }} />
-            <div><button className="btn">Найти</button></div>
+            <div><button className="btn" onClick={() => handleSearch()}>Найти</button></div>
             <div className="list">
                 {
                     result.length ? result.map(item => {
