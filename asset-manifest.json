@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_pd_411_hw_musik_search/static/css/main.ccee025e.css",
+    "main.js": "/react_pd_411_hw_musik_search/static/js/main.f13e403e.js",
+    "index.html": "/react_pd_411_hw_musik_search/index.html",
+    "main.ccee025e.css.map": "/react_pd_411_hw_musik_search/static/css/main.ccee025e.css.map",
+    "main.f13e403e.js.map": "/react_pd_411_hw_musik_search/static/js/main.f13e403e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccee025e.css",
+    "static/js/main.f13e403e.js"
+  ]
+}
